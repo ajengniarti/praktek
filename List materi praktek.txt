@@ -5,11 +5,18 @@ LIST MATERI PRAKTEK
   * Jenis sofware
   * Pengembangan sofware
   * Mobile app development
+  
+- Version control and branch management (GIT)
+  * Versioning
+  * Git Install
+  * Satting Up
 
 - Fundamental dart
   * Pengertian dart
   * Fungsi dart
+  
 - Branching-Looping-Function
   * Pengambilan keputusan
   * Perulangan
+
 - Advance function
