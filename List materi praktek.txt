@@ -6,6 +6,10 @@ LIST MATERI PRAKTEK
   * Pengembangan sofware
   * Mobile app development
 - Version control and branch management (GIT)
+  * Versioning
+  * Git Install
+  * Satting Up
 - Fundamental dart
 - Branching-Looping-Function
+  * Pengambilan keputusan
 - Advance function
