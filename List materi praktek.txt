@@ -7,6 +7,8 @@ LIST MATERI PRAKTEK
   * Mobile app development
 
 - Fundamental dart
+  * Pengertian dart
+  * Fungsi dart
 - Branching-Looping-Function
   * Pengambilan keputusan
   * Perulangan
