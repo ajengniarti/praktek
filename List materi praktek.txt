@@ -1,0 +1,10 @@
+LIST MATERI PRAKTEK
+
+- Introduction mobile app development
+  * Pengertian software
+  * Jenis sofware
+  
+- Version control and branch management (GIT)
+- Fundamental dart
+- Branching-Looping-Function
+- Advance function
