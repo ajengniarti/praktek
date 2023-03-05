@@ -1,0 +1,4 @@
+LIST MATERI PRAKTEK
+
+- Introduction mobile app development
+- Version control and branch management (GIT)
